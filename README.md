@@ -4,8 +4,11 @@ Binary Classification Dog vs Cat prediction using CNN
 
 ## Project Overview
 
-This project is focused on building a Convolutional Neural Network (CNN) to perform binary classification on a dataset of images. The goal is to classify images into two categories: cats and dogs. The project uses a Jupyter Notebook to implement and train the model.
+This project is focused on building a Convolutional Neural Network (CNN) to perform binary classification on a dataset of images. The goal is to classify images into two categories: cats and dogs. The project uses a Jupyter Notebook to implement and train the model
 
+## Dataset
+
+![Dataset](https://www.kaggle.com/datasets/salader/dogs-vs-cats) Dog vs. Cat Classification
 ## Contents
 
 - **Dog_vs_Cat_classification.ipynb**: The Jupyter Notebook contains the complete code for data preprocessing, model creation, training, and evaluation.
@@ -29,3 +32,4 @@ The CNN model is designed with multiple convolutional and pooling layers followe
 
 ## Evaluation
 The model's performance is evaluated using accuracy, precision, recall, and F1-score on the test set. Confusion matrices and ROC curves are also generated to better visualize the results.
+
